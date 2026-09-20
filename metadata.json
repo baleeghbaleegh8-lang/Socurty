@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة وتحليل عقود الخدمات الناعمة",
+  "description": "نظام مؤسسي متكامل لإدارة وتحليل وتقييم عقود الخدمات الناعمة وحساب التكاليف والتسعير والربحية والمخاطر والـ KPIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
